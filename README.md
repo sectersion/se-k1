@@ -1,4 +1,4 @@
-[sek1v1_bom.csv](https://github.com/user-attachments/files/26492156/sek1v1_bom.csv)# Secure Element K1
+# Secure Element K1
 
 This project is a small hardware password vault and crypto cold wallet using an ESP32-S3, a TPM (SLB9670), and a W25Q-series SPI flash chip.  
 
